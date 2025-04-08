@@ -17,6 +17,7 @@ language into another.
 See [basic-proposal], [basic-scanner], [basic-parser] for project. It is
 for parsing a simpler version of BASIC language with LLVM.
 
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/compilers)
 
 [basic-proposal]: https://github.com/cppf/basic-proposal
 [basic-scanner]: https://github.com/cppf/basic-scanner
